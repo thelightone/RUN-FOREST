@@ -6,3 +6,5 @@
 Small nice platformer.
 
 Choose between doctor and worker, collect points, shoot the chicks and jump over obstacles.
+
+Controls: W - shoot, SPACE - jump.
